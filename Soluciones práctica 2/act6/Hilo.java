@@ -1,0 +1,43 @@
+package Actividad6;
+
+import java.util.Observable;
+
+public class Hilo extends Observable implements Runnable
+{
+    String nombre;
+
+    public Hilo(String nombre)
+    {
+        this.nombre = nombre;
+    }
+
+    @Override
+    public void run()
+    {
+        int porcentaje = 0;
+        int numAleatorio;
+
+        try
+        {
+            while (porcentaje < 100)
+            {
+                numAleatorio = aumentarProgreso();
+                porcentaje += numAleatorio;
+
+                this.setChanged();
+                this.notifyObservers(porcentaje);
+                this.clearChanged();
+
+                Thread.sleep(300);
+            }
+        }
+            catch (InterruptedException ex) { }
+    }
+
+    public int aumentarProgreso()
+    {
+        int num = (int) Math.floor(Math.random() * 10 + 1);
+        return num;
+    }
+
+}

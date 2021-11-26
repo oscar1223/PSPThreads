@@ -29,8 +29,8 @@ public class Act2PSP extends Thread implements Runnable{
     public void run(){
         try{
             int numi = (int) Thread.currentThread().getId();
-            sleep(Thread.currentThread().getId(), numi);
-            System.out.println("Hola Mundo, desde Hilo:"+Thread.currentThread().getId());
+            sleep(Thread.currentThread().getId(), 2000);
+            System.out.println("Hola Mundo, desde Hilo:"+Thread.currentThread().getId()+", con nombre:" +Thread.currentThread().getName());
 
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -40,21 +40,21 @@ public class Act2PSP extends Thread implements Runnable{
 
 
     //Metodo main
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         //Hilo 1
         Act2PSP hil1 = new Act2PSP("Hilo 1");
-        new Thread(hil1).run();
+        new Thread(hil1).start();
         //Hilo 2
         Act2PSP hil2 = new Act2PSP("Hilo 2");
-        new Thread(hil2).run();
+        new Thread(hil2).start();
         //Hilo 3
         Act2PSP hil3 = new Act2PSP("Hilo 3");
-        new Thread(hil3).run();
+        new Thread(hil3).start();
         //Hilo 4
         Act2PSP hil4 = new Act2PSP("Hilo 4");
-        new Thread(hil4).run();
+        new Thread(hil4).start();
         //Hilo 5
         Act2PSP hil5 = new Act2PSP("Hilo 5");
-        new Thread(hil5).run();
+        new Thread(hil5).start();
     }
 }
