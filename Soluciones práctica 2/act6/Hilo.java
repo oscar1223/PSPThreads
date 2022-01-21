@@ -1,4 +1,4 @@
-package Actividad6;
+
 
 import java.util.Observable;
 

@@ -1,4 +1,4 @@
-package sara.Practica_UD2.src.act5;
+package act5;
 
 import java.applet.Applet;
 import java.awt.*;

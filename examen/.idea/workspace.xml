@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f7218c9-968c-4915-857c-b3000c309e60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ThreadAct1/src/ThreadAct3/Act3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Soluciones práctica 2/act5/ReboteApplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Soluciones práctica 2/act5/ReboteApplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Soluciones práctica 2/act6/Hilo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Soluciones práctica 2/act6/Hilo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Soluciones práctica 2/act6/InterfazPiloto.form" beforeDir="false" afterPath="$PROJECT_DIR$/../Soluciones práctica 2/act6/InterfazPiloto.form" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="223yLGLwJ2AtVQC3YiK7vrGsC2T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7218c9-968c-4915-857c-b3000c309e60" name="Changes" comment="" />
+      <created>1639080507989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639080507989</updated>
+      <workItem from="1639080509179" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

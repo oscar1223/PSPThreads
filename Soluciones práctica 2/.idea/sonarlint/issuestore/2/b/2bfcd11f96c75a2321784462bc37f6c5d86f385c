@@ -1,0 +1,12 @@
+
+M
+java:S1874"2Remove this use of "Observable"; it is deprecated.(¦Š©­ûÿÿÿÿ
+y
+java:S2142""^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬ñì´ıÿÿÿÿ
+C	java:S108"")Either remove or fill this block of code.(¬ñì´ıÿÿÿÿ
+D
+java:S2140'")Use "java.util.Random.nextInt()" instead.(ôõöìùÿÿÿÿ
+v
+java:S1488'"[Immediately return this expression instead of assigning it to the temporary variable "num".(ôõöìùÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8¤¢”†Ú/

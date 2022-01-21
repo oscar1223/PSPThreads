@@ -1,0 +1,30 @@
+
+r
+java:S1450í"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450î"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+m
+java:S1450ï"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+B
+java:S1948"'Make "hilos" transient or serializable.(¿×Ûñþÿÿÿÿ
+@
+java:S1172«"*Remove this unused method parameter "evt".(Œ¬š@
+F
+java:S1197Á"*Move the array designators [] to the type.(º ìýÿÿÿÿ
+\
+java:S2147Ñ"ECombine this catch with the one at line 207, which has the same body.(¨¦Š½
+\
+java:S2147Ó"ECombine this catch with the one at line 207, which has the same body.(ã€ 
+[
+java:S2147Õ"ECombine this catch with the one at line 207, which has the same body.(ñÎ¯%
+i
+java:S11926"NDefine a constant instead of duplicating this literal "Prioridad : x" 3 times.(‚¤çúýÿÿÿÿ
+d
+java:S1192»"MDefine a constant instead of duplicating this literal "Prioridad : " 3 times.(öþáÄ
+>
+java:S1604,"(Make this anonymous inner class a lambda(ƒ„Ð†
+?
+java:S1604Û"(Make this anonymous inner class a lambda(ä–†º
+±
+java:S1598"“This file "InterfazPiloto.java" should be located in "Actividad6" directory, not in "C:\Users\DAM2\Desktop\PSPThreads\Soluciones prÃ¡ctica 2\act6".(ë³­ô8Ûü¸†Ú/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë³­ô8ð®—†Ú/
