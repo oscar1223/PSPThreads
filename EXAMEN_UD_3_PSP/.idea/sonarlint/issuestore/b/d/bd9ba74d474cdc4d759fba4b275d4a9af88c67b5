@@ -1,0 +1,16 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "pokemonVamos".(ÕıÜÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶°ƒüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÌ©‚ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷“•ÿÿÿÿÿ
+e
+java:S1858"C"getNombre" returns a string, there's no need to call "toString()".(÷“•ÿÿÿÿÿ8´íßàğ/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Í‚øıÿÿÿÿ8¼êùàğ/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(£ˆ¤Â8¼êùàğ/
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ûµì‘
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯§åí
+g
+java:S2259&"JA "NullPointerException" could be thrown; "flujoEntrada" is nullable here.(÷ù‘†8…ëùàğ/
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ÙÂ‰Œıÿÿÿÿ

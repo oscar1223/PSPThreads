@@ -1,0 +1,13 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "cliente".(ü”îýÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€úÀÃøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ÏâÒÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À±›åÿÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ü”îýÿÿÿÿÿ
+e
+java:S2095
+"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(µã§õýÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ

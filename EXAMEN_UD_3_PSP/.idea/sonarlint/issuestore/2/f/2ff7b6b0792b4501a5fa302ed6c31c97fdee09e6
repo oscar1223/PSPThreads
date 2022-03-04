@@ -1,0 +1,22 @@
+
+j	java:S116"URename this field "pokeball_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õşß°
+o	java:S116"URename this field "pokeball_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üğåÿÿÿÿÿ
+j	java:S116"URename this field "pokeball_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûØ
+n	java:S116"ZRename this field "lista_Pokeballs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿœ°D
+p	java:S116"[Rename this field "ClienteConectado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°ıõ
+E
+java:S1197"*Move the array designators [] to the type.(ÕÊã¸şÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ÍÆûä
+@
+java:S1197"*Move the array designators [] to the type.(—¯ˆ
+?
+java:S1197"*Move the array designators [] to the type.(ÿœ°D
+P
+java:S1161#":Add the "@Override" annotation above this method signature(“–ış
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(©ÇâÌ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(øÂÇ§
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(·Ìò úÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëî¸›
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙºÄïüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯§åí

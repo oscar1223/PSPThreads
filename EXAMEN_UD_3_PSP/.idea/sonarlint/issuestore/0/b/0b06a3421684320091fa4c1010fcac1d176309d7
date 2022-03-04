@@ -1,0 +1,17 @@
+
+g
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ÙÌôˆ
+[
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(º“º³üÿÿÿÿ
+Z
+java:S1854"DRemove this useless assignment to local variable "clienteconectado".(Û°Æû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åüè—ùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨™øÈ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º“º³üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯§åí
+Z
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Û°Æû
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¨™øÈ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
